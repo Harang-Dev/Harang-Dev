@@ -5,5 +5,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunwoo-Seo&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hyunwoo-Seo&theme=tokyonight&show_icons=true" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hyunwoo-Seo&theme=tokyonight&show_icons=true" width="50%" />
 </a>
