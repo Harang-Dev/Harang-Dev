@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hyunwoo's%20GitHub%&animation=twinkling&fontSize=45&fontAlignY=40&fontAlign=70&height=250)
 <hr>
 <br>
-<h2 align="left" color: 0000ff>Profile</h2>
+<h2 align="left">Profile</h2>
 <hr>
 <h5 align="left">Hi!, I'm a student in the Department of Digital Media Engineering at Tongmyeong University.🎓</h5>
 <br>
