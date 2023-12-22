@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hyunwoo's%20GitHub%&animation=twinkling&fontSize=45&fontAlignY=40&fontAlign=70&height=250)
 <hr>
 <br>
-<p align="center">안녕하세요</p>
+<h3 align="center">안녕하세요</h3>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunwoo-Seo&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
