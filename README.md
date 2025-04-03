@@ -1,29 +1,65 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hyunwoo's%20GitHub%&animation=twinkling&fontSize=45&fontAlignY=40&fontAlign=70&height=250)
-<hr>
-<br>
-<h2 align="left">Profile</h2>
-<hr>
-<h5 align="left">Hi!, I'm a student in the Department of Digital Media Engineering at Tongmyeong University.🎓</h5>
-<br>
-<br>
+<div align="center">
 
-<h2 align="left">🛠️Tech Stack🛠️</h2>
-<hr>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Harang's%20GitHub&fontSize=45&fontAlign=70&fontAlignY=40&animation=twinkling)
+  
+  <h3>✨ Welcome! ✨</h3>
+  <p>I'm a Front-End Developer who values <strong>communication and collaboration</strong> 🤝</p>
+  <p>Currently learning <strong>Next.js</strong> and <strong>TypeScript</strong> to become a better developer 🚀</p>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</div>
+
+---
+
+## 📌 About Me
+
+- 💬 I aim to be a developer who listens well and communicates clearly
+- 💻 I enjoy building clean UI and intuitive UX with modern web technologies
+- 🧑‍🎓 Graduated from **Tongmyong University**, majoring in **Digital Media Engineering and Convergence Media Major**
+- 📚 Currently diving deeper into **Next.js** and **TypeScript**
+- 🧠 Always curious, always learning!
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Harang-Dev&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harang-Dev&layout=compact&theme=tokyonight" width="47%" />
+
+</div>
+
+---
+
+## 📝 Recent Projects
 
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+- 🧾 **[My Portfolio Site](https://port-next-webportfolio-front-m61t9knhb5c1f236.sel4.cloudtype.app/)**  
+  Next.js + TypeScript + MySQL + Node.js 를 사용한 웹 포트폴리오
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
+- 📘 **[MZ Dict](https://web-mz-dict-front-m61t9knhb5c1f236.sel4.cloudtype.app/)**  
+  React.js + JavaScript 를 사용한 MZ 세대들의 단어사전
 
-<br>
-<br>
-<h2 align="left">Research Interest</h2>
-<li>
-</li>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunwoo-Seo&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hyunwoo-Seo&theme=tokyonight&show_icons=true" width="47%" />
-</a>
+
