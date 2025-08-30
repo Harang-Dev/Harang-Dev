@@ -48,8 +48,6 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=Harang-Dev&show_icons=true&theme=tokyonight" width="48%" height="200px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harang-Dev&layout=compact&theme=tokyonight" width="48%" height="200px" />
-
 </div>
