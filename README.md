@@ -180,34 +180,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=22D3EE&height=80&section=header&text=VITAL%20STATISTICS&fontSize=28&fontAlignY=45&desc=github%20activity%20%2F%20language%20signal&descSize=13&descAlignY=72" alt="Vital Statistics" />
 
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harang-Dev&theme=tokyonight" alt="GitHub Profile Summary" />
-
-<br /><br />
-
 <table align="center">
   <tr>
-    <td width="49%" align="center" valign="top">
-      <h3>⚡ GitHub Signal</h3>
-      <p>
-        <code>public repositories: 22</code><br />
-        <code>main focus: frontend development</code><br />
-        <code>working mode: clean UI / intuitive UX</code>
-      </p>
-      <a href="https://github.com/Harang-Dev?tab=repositories">
-        <img src="https://img.shields.io/badge/View%20Repositories-22D3EE?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="View Repositories" />
-      </a>
+    <td align="center" width="33%">
+      <h3>🧭 Profile Signal</h3>
+      <p><b>Front-End Developer</b></p>
+      <p>React · TypeScript · Next.js · Vue</p>
     </td>
-    <td width="49%" align="center" valign="top">
-      <h3>🔥 Streak Mode</h3>
-      <p>
-        <code>build consistently</code><br />
-        <code>learn continuously</code><br />
-        <code>ship with communication</code>
-      </p>
-      <a href="https://github.com/Harang-Dev">
-        <img src="https://img.shields.io/badge/GitHub-Harang--Dev-7C3AED?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Harang GitHub" />
-      </a>
+    <td align="center" width="33%">
+      <h3>🏢 Current Node</h3>
+      <p><b>AlphaPrime</b></p>
+      <p>Seoul, Korea</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚡ Build Mode</h3>
+      <p><b>Clean UI / Intuitive UX</b></p>
+      <p>Communication-first workflow</p>
     </td>
   </tr>
 </table>
@@ -216,24 +204,35 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="top">
-      <h3>🧪 Language Signal</h3>
+    <td align="center" width="50%">
+      <h3>🚀 Main Stack</h3>
       <p>
-        <code>JavaScript</code> · <code>TypeScript</code> · <code>React</code> · <code>Next.js</code> · <code>Vue.js</code>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
       </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🧩 Supporting Tools</h3>
       <p>
-        <code>HTML5</code> · <code>CSS3</code> · <code>Git</code> · <code>GitHub</code> · <code>Figma</code>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
       </p>
     </td>
   </tr>
 </table>
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Harang-Dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies" />
 
-<br /><br />
+<br />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harang-Dev&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=22D3EE&line=7C3AED&point=FFFFFF" alt="GitHub Activity Graph" />
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Stats-External%20Widgets%20Disabled-22D3EE?style=for-the-badge&labelColor=0D1117" alt="External Widgets Disabled" />
+  <img src="https://img.shields.io/badge/Reason-No%20Broken%20Images-7C3AED?style=for-the-badge&labelColor=0D1117" alt="No Broken Images" />
+</p>
 
-</div>
+<sub>Dynamic stat widgets were removed to keep this README stable when third-party image APIs fail.</sub>
+
+</div></div>
 
 <p align="center">
   <a href="https://github.com/Harang-Dev">
