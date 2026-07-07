@@ -159,18 +159,7 @@
   </a>
 </p>
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A78BFA&height=80&section=header&text=PROJECT%20SIGNALS&fontSize=28&fontAlignY=45&desc=selected%20work%20%2F%20public%20repos&descSize=13&descAlignY=72" alt="Project Signals" />
-
-<a href="https://github.com/Harang-Dev/guff">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harang-Dev&repo=guff&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" alt="guff repository card" />
-</a>
-<a href="https://github.com/Harang-Dev/sik-share">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harang-Dev&repo=sik-share&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" alt="sik-share repository card" />
-</a>
-
-<br /><br />
 
 <a href="https://giggle-lab.co.kr">
   <img src="https://img.shields.io/badge/Giggle%20Lab-Service%20Channel-22D3EE?style=for-the-badge&labelColor=0D1117&logo=vercel&logoColor=white" alt="Giggle Lab Service Channel" />
@@ -191,16 +180,53 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=22D3EE&height=80&section=header&text=VITAL%20STATISTICS&fontSize=28&fontAlignY=45&desc=github%20activity%20%2F%20language%20signal&descSize=13&descAlignY=72" alt="Vital Statistics" />
 
+
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harang-Dev&theme=tokyonight" alt="GitHub Profile Summary" />
 
 <br /><br />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harang-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" alt="Harang's GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Harang-Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE" alt="GitHub Streak" />
+<table align="center">
+  <tr>
+    <td width="49%" align="center" valign="top">
+      <h3>⚡ GitHub Signal</h3>
+      <p>
+        <code>public repositories: 22</code><br />
+        <code>main focus: frontend development</code><br />
+        <code>working mode: clean UI / intuitive UX</code>
+      </p>
+      <a href="https://github.com/Harang-Dev?tab=repositories">
+        <img src="https://img.shields.io/badge/View%20Repositories-22D3EE?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="View Repositories" />
+      </a>
+    </td>
+    <td width="49%" align="center" valign="top">
+      <h3>🔥 Streak Mode</h3>
+      <p>
+        <code>build consistently</code><br />
+        <code>learn continuously</code><br />
+        <code>ship with communication</code>
+      </p>
+      <a href="https://github.com/Harang-Dev">
+        <img src="https://img.shields.io/badge/GitHub-Harang--Dev-7C3AED?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Harang GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br /><br />
+<br />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harang-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top Languages" />
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <h3>🧪 Language Signal</h3>
+      <p>
+        <code>JavaScript</code> · <code>TypeScript</code> · <code>React</code> · <code>Next.js</code> · <code>Vue.js</code>
+      </p>
+      <p>
+        <code>HTML5</code> · <code>CSS3</code> · <code>Git</code> · <code>GitHub</code> · <code>Figma</code>
+      </p>
+    </td>
+  </tr>
+</table>
 <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Harang-Dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies" />
 
 <br /><br />
