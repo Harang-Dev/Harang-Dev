@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="44" viewBox="0 0 94 44" role="img" aria-label="블로그">
+<title>블로그</title>
+<defs><linearGradient id="rim" x2="0" y2="1"><stop stop-color="#F2AA77"/><stop offset="1" stop-color="#CC744E"/></linearGradient><linearGradient id="face" x2="0" y2="1"><stop stop-color="#2B3039"/><stop offset="1" stop-color="#181D25"/></linearGradient></defs>
+<rect x="1" y="5" width="92" height="38" rx="12" fill="#8F4D35"/>
+<rect x="1" y="1" width="92" height="38" rx="12" fill="url(#rim)"/>
+<rect x="4" y="3" width="86" height="32" rx="9" fill="url(#face)"/>
+<path d="M13 4.5H81" stroke="#FFE8D7" stroke-opacity=".28" stroke-linecap="round"/>
+<text x="15" y="23.5" fill="#FFE8D7" font-family="Apple SD Gothic Neo,Malgun Gothic,Noto Sans KR,sans-serif" font-size="13" font-weight="600">블로그</text>
+<rect x="64" y="10" width="20" height="20" rx="6" fill="#F2AA77" fill-opacity=".13"/>
+<path d="M70 24l8-8m-7 0h7v7" fill="none" stroke="#F2AA77" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
