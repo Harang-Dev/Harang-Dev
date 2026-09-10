@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title">
+  <title id="title">들러주셔서 반가워요. 오늘도, 조금 더 좋은 경험을 향해.</title>
+  <rect width="1200" height="150" rx="16" fill="#F2EEF7"/>
+  <g fill="#B0A1C5" transform="translate(84 75)">
+    <ellipse cy="-13" rx="9" ry="15"/><ellipse cy="-13" rx="9" ry="15" transform="rotate(60)"/><ellipse cy="-13" rx="9" ry="15" transform="rotate(120)"/><ellipse cy="-13" rx="9" ry="15" transform="rotate(180)"/><ellipse cy="-13" rx="9" ry="15" transform="rotate(240)"/><ellipse cy="-13" rx="9" ry="15" transform="rotate(300)"/><circle r="8" fill="#F4E1B7"/>
+  </g>
+  <g font-family="'Apple SD Gothic Neo','Noto Sans KR','Malgun Gothic',sans-serif" fill="#655B74">
+    <text x="137" y="71" font-size="25" font-weight="600">들러주셔서 반가워요.</text>
+    <text x="137" y="104" font-size="20" fill="#8B8096">오늘도, 조금 더 좋은 경험을 향해.</text>
+    <text x="1118" y="86" font-size="24" text-anchor="end">하랑 드림</text>
+  </g>
+</svg>
