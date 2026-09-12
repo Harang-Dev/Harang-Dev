@@ -1,14 +1,8 @@
 """Render the static career map. No runtime dependencies or interaction."""
 from pathlib import Path
-from base64 import b64encode
 
-WIDTH, HEIGHT = 720, 480
+WIDTH, HEIGHT = 720, 270
 faces = []
-ASSETS = Path(__file__).resolve().parents[1] / 'assets/profile'
-def logo(name, x, y, width, height):
-    data = b64encode((ASSETS / 'logos' / name).read_bytes()).decode('ascii')
-    return f'<image x="{x}" y="{y}" width="{width}" height="{height}" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,{data}"/>'
-
 
 
 def project(x, z, y=0):
@@ -69,29 +63,15 @@ for x,z in [(-213,-45),(-210,7),(-69,-39),(-47,-44),(13,-45),(222,17),(218,-49)]
     block(x,z,0,17,17,5,'#8aa982','#455f4c','#648260')
     block(x,z,5,21,20,14,'#b0c69b','#637f5e','#8caa78')
 
-parts = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}" role="img" aria-labelledby="title desc">',
-'<title id="title">하랑의 이력 지도</title>',
-'<desc id="desc">동명대학교에서 디지털미디어공학과 융합미디어를 공부하고 졸업했습니다. 길은 현재 재직 중인 알파프라임으로 이어집니다. 프론트엔드 개발자로 제품을 만듭니다. 날짜와 인터랙션이 없는 정적인 지도입니다.</desc>',
-'<rect width="720" height="480" rx="18" fill="#11191d"/>',
-'<g font-family="Apple SD Gothic Neo,Malgun Gothic,Noto Sans KR,sans-serif">',
-'<text x="34" y="45" fill="#a9b7b4" font-size="20">배움에서 제품을 만드는 일로</text>',
-'<text x="686" y="45" text-anchor="end" fill="#7e9990" font-size="17">하랑의 이력 지도</text>']
+parts = [
+    f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}" role="img" aria-labelledby="title desc">',
+    '<title id="title">학교에서 회사로 이어지는 2.5D 지도</title>',
+    '<desc id="desc">학교와 회사 건물을 하나의 길로 연결한 정적인 입체 지도입니다. 이력과 로고는 README의 HTML에 별도로 표시합니다.</desc>',
+    '<rect width="720" height="270" rx="10" fill="#11191d"/>',
+]
 parts.extend(shape for _, shape in terrain)
 parts.extend(shape for _, shape in sorted(faces))
-# Labels are always visible and contain the full career information.
-parts.extend([
-'<path d="M183 243V275M550 221V275" fill="none" stroke="#5c7669" stroke-width="1.5"/>',
-'<circle cx="183" cy="275" r="3" fill="#d4bf9c"/><circle cx="550" cy="275" r="3" fill="#bdd9c8"/>',
-'<rect x="42" y="292" width="264" height="76" rx="6" fill="#ffffff"/>',
-logo('tongmyong.png', 57, 302, 234, 56),
-'<text x="50" y="408" fill="#b4c0bd" font-size="23">디지털미디어공학</text>',
-'<text x="50" y="439" fill="#b4c0bd" font-size="23">융합미디어 · 졸업</text>',
-'<rect x="410" y="292" width="264" height="76" rx="6" fill="#1d2931"/>',
-logo('alphaprime.png', 426, 311, 232, 38),
-'<text x="420" y="408" fill="#b4c0bd" font-size="23">프론트엔드 개발자</text>',
-'<circle cx="426" cy="431" r="4" fill="#a7dab6"/>',
-'<text x="441" y="439" fill="#bce3c7" font-size="23">현재 재직 중</text>',
-'</g></svg>'])
-output = Path(__file__).resolve().parents[1] / 'assets/profile/career-map-logos.svg'
+parts.append('</svg>')
+output = Path(__file__).resolve().parents[1] / 'assets/profile/career-map-scene.svg'
 output.write_text('\n'.join(parts))
 print(output)

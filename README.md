@@ -19,7 +19,27 @@
 
 ### 지나온 길
 
-<img src="./assets/profile/career-map-logos.svg" width="100%" alt="동명대학교에서 디지털미디어공학과 융합미디어를 공부하고 졸업했습니다. 현재 알파프라임에서 프론트엔드 개발자로 재직 중입니다." />
+<table>
+  <tr>
+    <td colspan="2">
+      <img src="./assets/profile/career-map-scene.svg" width="100%" alt="동명대학교에서 알파프라임으로 이어지는 2.5D 지도" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/profile/logos/tongmyong-label.png" width="132" height="38" alt="동명대학교 공식 로고" /><br />
+      <strong>동명대학교</strong><br />
+      디지털미디어공학<br />
+      융합미디어 · 졸업
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/profile/logos/alphaprime-label.png" width="132" height="38" alt="알파프라임 공식 로고" /><br />
+      <strong>알파프라임</strong><br />
+      프론트엔드 개발자<br />
+      현재 재직 중
+    </td>
+  </tr>
+</table>
 
 <br />
 
