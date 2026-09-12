@@ -19,27 +19,18 @@
 
 ### 지나온 길
 
-<table>
-  <tr>
-    <td colspan="2">
-      <img src="./assets/profile/career-map-scene.svg" width="100%" alt="동명대학교에서 알파프라임으로 이어지는 2.5D 지도" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="./assets/profile/logos/tongmyong-label.png" width="132" height="38" alt="동명대학교 공식 로고" /><br />
-      <strong>동명대학교</strong><br />
-      디지털미디어공학<br />
-      융합미디어 · 졸업
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="./assets/profile/logos/alphaprime-label.png" width="132" height="38" alt="알파프라임 공식 로고" /><br />
-      <strong>알파프라임</strong><br />
-      프론트엔드 개발자<br />
-      현재 재직 중
-    </td>
-  </tr>
-</table>
+```mermaid
+flowchart LR
+    university["동명대학교<br/>디지털미디어공학 · 융합미디어<br/>졸업"]
+    alphaprime["알파프라임<br/>프론트엔드 개발자<br/>현재 재직 중"]
+
+    university --> alphaprime
+
+    classDef education fill:#F0E4CB,stroke:#CEB98F,color:#3D382F,stroke-width:1px
+    classDef current fill:#D2E8D9,stroke:#80A48B,color:#243E2D,stroke-width:2px
+    class university education
+    class alphaprime current
+```
 
 <br />
 
